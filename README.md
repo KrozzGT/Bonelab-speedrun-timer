@@ -38,7 +38,7 @@ class Program
     }
 }
 
-state("YourGameNameHere")
+state("Bonelab")
 {
     // Example: a variable you could track
     int dummy : 0x000000; 
